@@ -8,5 +8,5 @@ with open('Ag001hist0.txt','r',encoding='CP932') as f:
             pass
         else:
             print(word,end='')
-"test
+
 
